@@ -1,0 +1,31 @@
+*{
+    margin: 10px;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.blog{
+    margin: 40px;
+    padding: 10px;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px 20px blueviolet;
+    /* text-align: justify; */
+}
+h2{
+    display: inline-block;
+    text-align: center;
+}
+
+.external{
+    background-color: black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    h2{
+        color: whitesmoke;
+        text-align: justify;
+    }
+    p{
+        background-color: aliceblue;
+        padding: 5px;
+        border-radius: 18px;
+    }
+}
